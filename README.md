@@ -1,5 +1,5 @@
 # Hi there! 👋 
-
+📱 Mobile Developer Extraordinaire 🚀
 🌱 I'm a passionate developer, always eager to learn and create.
 
 <!---
