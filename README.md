@@ -1,6 +1,6 @@
 📱 Mobile Developer Extraordinaire 🚀
 
-Hello there! 👋 I'm ozomata, a passionate mobile developer on a mission to create sleek and robust mobile experiences. With a love for turning ideas into reality, I specialize in crafting intuitive and high-performance applications for both iOS and Android platforms.
+Hello there! 👋 I'm ozomata, a passionate mobile developer on a mission to create sleek and robust mobile experiences. With  love for turning ideas into reality, I specialize in crafting intuitive and high-performance applications for both iOS and Android platforms.
 
 🔧 --Skills:-- 
 - React Native | Typescript | 
