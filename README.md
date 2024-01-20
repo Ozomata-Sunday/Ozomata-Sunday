@@ -6,7 +6,7 @@ Hello there! 👋 I'm ozomata, a passionate mobile developer on a mission to cre
 - React Native | Typescript | 
 - iOS Development | Android Development
 - Turning 🎴 UI/UX Design | Responsive Design 🎴 into reality 
-- RESTful APIs | Firebase |
+- | Firebase | RESTful APIs 
 - Git |
 
 Let's build something incredible together! 💪✨
